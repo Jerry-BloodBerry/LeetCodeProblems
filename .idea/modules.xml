@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeetCodeProblems.iml" filepath="$PROJECT_DIR$/LeetCodeProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSortedArray_88/MergeSortedArray_88.iml" filepath="$PROJECT_DIR$/MergeSortedArray_88/MergeSortedArray_88.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PascalsTriangle_118/PascalsTriangle_118.iml" filepath="$PROJECT_DIR$/PascalsTriangle_118/PascalsTriangle_118.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlusOne_66/PlusOne_66.iml" filepath="$PROJECT_DIR$/PlusOne_66/PlusOne_66.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveElement_27/RemoveElement_27.iml" filepath="$PROJECT_DIR$/RemoveElement_27/RemoveElement_27.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchInsertPosition_35/SearchInsertPosition_35.iml" filepath="$PROJECT_DIR$/SearchInsertPosition_35/SearchInsertPosition_35.iml" />
