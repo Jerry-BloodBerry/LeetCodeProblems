@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCodeProblems.iml" filepath="$PROJECT_DIR$/LeetCodeProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/MajorityElement_169/MajorityElement_169.iml" filepath="$PROJECT_DIR$/MajorityElement_169/MajorityElement_169.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSortedArray_88/MergeSortedArray_88.iml" filepath="$PROJECT_DIR$/MergeSortedArray_88/MergeSortedArray_88.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MissingNumber_268/MissingNumber_268.iml" filepath="$PROJECT_DIR$/MissingNumber_268/MissingNumber_268.iml" />
       <module fileurl="file://$PROJECT_DIR$/PascalsTriangleII_119/PascalsTriangleII_119.iml" filepath="$PROJECT_DIR$/PascalsTriangleII_119/PascalsTriangleII_119.iml" />
       <module fileurl="file://$PROJECT_DIR$/PascalsTriangle_118/PascalsTriangle_118.iml" filepath="$PROJECT_DIR$/PascalsTriangle_118/PascalsTriangle_118.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlusOne_66/PlusOne_66.iml" filepath="$PROJECT_DIR$/PlusOne_66/PlusOne_66.iml" />
