@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.iml" filepath="$PROJECT_DIR$/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch_704/BinarySearch_704.iml" filepath="$PROJECT_DIR$/BinarySearch_704/BinarySearch_704.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicateII_219/ContainsDuplicateII_219.iml" filepath="$PROJECT_DIR$/ContainsDuplicateII_219/ContainsDuplicateII_219.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate_217/ContainsDuplicate_217.iml" filepath="$PROJECT_DIR$/ContainsDuplicate_217/ContainsDuplicate_217.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray_448/FindAllNumbersDisappearedInAnArray_448.iml" filepath="$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray_448/FindAllNumbersDisappearedInAnArray_448.iml" />
