@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/SingleNumber_136/SingleNumber_136.iml" filepath="$PROJECT_DIR$/SingleNumber_136/SingleNumber_136.iml" />
       <module fileurl="file://$PROJECT_DIR$/SummaryRanges_228/SummaryRanges_228.iml" filepath="$PROJECT_DIR$/SummaryRanges_228/SummaryRanges_228.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThirdMaximumNumber_414/ThirdMaximumNumber_414.iml" filepath="$PROJECT_DIR$/ThirdMaximumNumber_414/ThirdMaximumNumber_414.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordSubsets_916/WordSubsets_916.iml" filepath="$PROJECT_DIR$/WordSubsets_916/WordSubsets_916.iml" />
     </modules>
   </component>
 </project>
